@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Feliz</string>
+    <string name="mom">Parabéns Mãe!</string>
+    <string name="from">De Eliete...</string>
+</resources>
+
+<!-- sobre values, selecione new/Values Resource
+ Indique um Locale e traduza strings.xml para a linguagem especificada-->
+
